@@ -1,0 +1,8 @@
+.primary{
+    color: orange;
+    font-weight: 900;
+    border: 1px solid green;
+}
+.font-xl{
+    font-size: 72px;
+}
