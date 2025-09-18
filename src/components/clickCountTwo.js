@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
  class clickCountTwo extends Component {
 //hsdfjfl
-//ydsflkljk
+//yddsfhkj
 
   render() {
     const{count,clickHandler}=this.props
